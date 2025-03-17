@@ -32,7 +32,6 @@ This project demonstrates a real-time location tracking system using **Node.js**
   - `ejs`: Templating engine
   - `path`: To handle file paths
 
----
 ##File-Structure
 
 real-time-location-tracking/
@@ -45,3 +44,5 @@ real-time-location-tracking/
 │   └── index.ejs              # HTML template
 ├── app.js                     # Backend logic
 └── README.md                  # Project documentation
+---
+
